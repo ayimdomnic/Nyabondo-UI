@@ -1,0 +1,28 @@
+{
+  "name": "user-interface",
+  "version": "1.0.0",
+  "description": "This is the web view of Nyabondo High school website and CRM",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayimdomnic/Nyabondo-UI.git"
+  },
+  "keywords": [
+    "School",
+    "Alumini",
+    "Angular",
+    "Power",
+    "Gulp",
+    "CRM",
+    "Nyabondo"
+  ],
+  "author": "Odhiambo Domnic, James Oguya, Robert Adero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayimdomnic/Nyabondo-UI/issues"
+  },
+  "homepage": "https://github.com/ayimdomnic/Nyabondo-UI#readme"
+}
